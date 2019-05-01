@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Nola:Hello there ,I made a new change, I made a change also
+=======
+Evarist: Hello there ,I made a new change
+>>>>>>> devTeam/master
+Nola: Hello Thanks for the change
